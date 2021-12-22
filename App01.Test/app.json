@@ -1,0 +1,32 @@
+﻿{
+    "id":  "4b0eb109-8ab8-4220-be24-c48d38d89ec7",
+    "name":  "App01.Test",
+    "publisher":  "Navitrans",
+    "version":  "1.0.0.0",
+    "brief":  "",
+    "description":  "",
+    "privacyStatement":  "",
+    "EULA":  "",
+    "help":  "",
+    "url":  "",
+    "logo":  "",
+    "dependencies":  [
+
+                     ],
+    "screenshots":  [
+
+                    ],
+    "platform":  "1.0.0.0",
+    "application":  "19.0.0.0",
+    "idRanges":  [
+                     {
+                         "from":  50000,
+                         "to":  99999
+                     }
+                 ],
+    "resourceExposurePolicy":  {
+                                   "allowDebugging":  true,
+                                   "allowDownloadingSource":  false,
+                                   "includeSourceInSymbolFile":  false
+                               }
+}
