@@ -4,6 +4,6 @@
                        "App01"
                    ],
     "testFolders":  [
-
+                        "App01.Test"
                     ]
 }
